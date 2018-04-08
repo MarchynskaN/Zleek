@@ -9,6 +9,9 @@ body {
     -webkit-overflow-scrolling: touch;
     margin-top:0px;
 }
+[class*="col-"] {
+    width: 100%;
+}
 h2,h3,h4,h5,h6 {
 		font-weight: 300;
 		color: #fff;
